@@ -1,1 +1,1 @@
-The weather is nice today.
+今日天朗氣清。
