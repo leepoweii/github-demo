@@ -1,1 +1,1 @@
-今天天氣很好
+The weather is nice today.
